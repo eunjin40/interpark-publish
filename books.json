@@ -1,0 +1,63 @@
+{
+  "total": 10,
+  "books_1": {
+    "image": "images/book1.jpg",
+    "name": "블루 아카이브 2주년 기념 Ost [Kit 앨범",
+    "price": 32000,
+    "url": "e.html"
+  },
+  "books_2": {
+    "image": "images/book2.jpg",
+    "name": "더 그레이트 비트코인",
+    "price": 31500,
+    "url": "e.html"
+  },
+  "books_3": {
+    "image": "images/book3.jpg",
+    "name": "기적의 자세요정",
+    "price": 19800,
+    "url": "e.html"
+  },
+  "books_4": {
+    "image": "images/book4.jpg",
+    "name": "역사는 반복된다",
+    "price": 15750,
+    "url": "e.html"
+  },
+  "books_5": {
+    "image": "images/book5.jpg",
+    "name": "최애의 아이 12",
+    "price": 5400,
+    "url": "e.html"
+  },
+  "books_6": {
+    "image": "images/book6.jpg",
+    "name": "세이노의 가르침",
+    "price": 6480,
+    "url": "e.html"
+  },
+  "books_7": {
+    "image": "images/book7.jpg",
+    "name": "[2024년 달력 얼리버드] 어린왕자, 앤, 곰돌이푸, 애드워드호퍼, 모네, 고흐, 윤동주 등",
+    "price": 6560,
+    "url": "e.html"
+  },
+  "books_8": {
+    "image": "images/book8.jpg",
+    "name": "코스모폴리탄 11월호 - 표지 3종 C형 수지 / 부록없음",
+    "price": 6300,
+    "url": "e.html"
+  },
+  "books_9": {
+    "image": "images/book9.jpg",
+    "name": "연인 대본집 1",
+    "price": 20700,
+    "url": "e.html"
+  },
+  "books_10": {
+    "image": "images/book10.jpg",
+    "name": "최태성의 365 한국사 일력",
+    "price": 19800,
+    "url": "e.html"
+  }
+}

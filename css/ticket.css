@@ -1,0 +1,211 @@
+.ticket {
+  position: relative;
+  padding-top: 0;
+  padding-bottom: 90px;
+  /* background-color: coral; */
+}
+
+.ticket-inner {
+  position: relative;
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.ticket-header {
+  position: relative;
+}
+
+.ticket-title {
+  position: relative;
+  margin-bottom: 10px;
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+}
+
+.ticket-txt {
+  position: relative;
+  display: block;
+  font-size: 1.8rem;
+  color: #a7a9a7;
+  text-align: center;
+}
+
+.ticket-main {
+  position: relative;
+  padding: 25px 0;
+}
+
+.ticket-category {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.ticket-list {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.ticket-list li {
+  position: relative;
+}
+
+.ticket-cate-bt {
+  position: relative;
+  display: block;
+
+  padding: 0px 20px;
+  line-height: 42px;
+
+  border: 0.1rem solid #e5e5e5;
+  border-radius: 4.4rem;
+  background-color: #fff;
+  cursor: pointer;
+  font-size: 1.4rem;
+  color: #111;
+  font-weight: 400;
+}
+
+.ticket-cate-bt-active {
+  background-color: #333 !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  border: 0.1rem solid transparent !important;
+}
+
+.ticket-slide-wrap {
+  position: relative;
+  height: 520px;
+  /* background-color: wheat; */
+  margin-top: 23px;
+}
+
+.ticket-slide-item {
+  position: relative;
+  height: 520px;
+  background-color: transparent;
+}
+
+.ticket-link {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.ticket-img {
+  position: relative;
+  width: 100%;
+  height: 400px;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.ticket-img img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.ticket-img span {
+  position: absolute;
+  left: 2.2rem;
+  bottom: 1.4rem;
+  height: 8.35rem;
+  font-size: 7rem;
+  font-weight: 700;
+  color: #fff;
+  z-index: 2;
+}
+
+.ticket-info {
+  position: relative;
+  height: calc(100% - 400px);
+  padding: 1.6rem 0.8rem;
+}
+
+.ticket-good-list {
+  position: relative;
+}
+
+.ticket-good-list li {
+  position: relative;
+  margin-bottom: 7px;
+}
+
+.ticket-good-name {
+  position: relative;
+  display: block;
+  font-size: 1.8rem;
+  color: #111;
+  font-weight: 700;
+  line-height: 2.2rem;
+  /* 1줄 말줄임 */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ticket-good-place {
+  position: relative;
+  display: block;
+  font-size: 1.5rem;
+  line-height: 1.8rem;
+  color: #666;
+  /* 1줄 말줄임 */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ticket-good-date {
+  position: relative;
+  display: block;
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  color: #999;
+}
+
+.ticket-good-badge {
+  position: relative;
+  display: flex;
+}
+
+.ticket-good-badge i {
+  position: relative;
+  height: 2.4rem;
+  padding: 0 0.8rem;
+  border: 0.1rem solid #4a95ff;
+  border-radius: 0.3rem;
+  color: #4a95ff;
+  font-style: normal;
+  font-size: 1.1rem;
+  line-height: 2.4rem;
+}
+
+.ticket-footer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.ticket-footer a {
+  position: relative;
+  display: block;
+
+  padding: 0px 39px;
+  line-height: 54px;
+
+  border: 0.1rem solid #e5e5e5;
+  border-radius: 3.8rem;
+  background-color: #fff;
+  cursor: pointer;
+  font-size: 1.6rem;
+  columns: #333;
+  font-weight: 700;
+}

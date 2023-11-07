@@ -1,6 +1,7 @@
 .visual {
     position: relative;
-    padding: 3rem 0 6rem;
+    padding-top: 30px;
+    padding-bottom: 90px;
 }
 
 .visual-inner {
